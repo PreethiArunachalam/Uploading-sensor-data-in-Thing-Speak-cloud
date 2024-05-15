@@ -148,7 +148,8 @@ delay(100);
 
 # OUTPUT:
 
-![WhatsApp Image 2024-05-10 at 16 21 53_08d18226](https://github.com/PreethiArunachalam/Uploading-sensor-data-in-Thing-Speak-cloud/assets/120115840/5b312d1e-2787-482a-9cc6-7756632f5d6b)
+![WhatsApp Image 2024-05-10 at 16 21 53_08d18226](https://github.com/PreethiArunachalam/Uploading-sensor-data-in-Thing-Speak-cloud/assets/120115840/e37cc78e-5e49-4d6a-b88c-961e9c8024ba)
+
 
 ![image](https://github.com/PreethiArunachalam/Uploading-sensor-data-in-Thing-Speak-cloud/assets/120115840/8fd67da3-b8ca-4292-a877-55bab6f4dc7d)
 
